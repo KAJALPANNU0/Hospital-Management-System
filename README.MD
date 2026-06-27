@@ -200,28 +200,3 @@ To explore the system's capabilities, use these pre-configured accounts:
 | Admin Panel | ![Admin Users](image/admin-users.png) | User management and system configuration |
 
 ---
-
-## 📞 Connect With Me
-
-**Rajeev Nayan**  
-Full-Stack Java Developer | Spring Boot Expert | Clean Code Enthusiast
-
-📧 Email: imrajeevnayan@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/imrajeevnayan  
-🐙 GitHub: github.com/imrajeevnayan
-
----
-
-## 🤝 Need Assistance?
-
-If you encounter any issues or have questions about the project:
-
-1. Check the [GitHub Issues](https://github.com/yourname/hms/issues) page for known problems
-2. Contact me directly at imrajeevnayan@gmail.com
-3. Explore the interactive API documentation at http://localhost:8080/swagger-ui.html (after running the application)
-
----
-
-**This Hospital Management System represents my commitment to building production-ready applications that solve real-world problems. It demonstrates not just technical proficiency, but an understanding of business needs, user experience, and the importance of clean, maintainable code.**
-
-**I'm passionate about creating software that makes a difference, and I'm excited to bring this same level of dedication and expertise to your team.**
